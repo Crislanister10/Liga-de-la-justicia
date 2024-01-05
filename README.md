@@ -3,6 +3,6 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 # notass
-cristin benitez g
+cristian benitez g
 ## Notas
 Pueden hacer lo que quieran...
