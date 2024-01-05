@@ -2,7 +2,6 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-# notass
-cristian benitez g
-## Notas
-Pueden hacer lo que quieran...
+# Nota final
+
+ Este es el proyecto final
